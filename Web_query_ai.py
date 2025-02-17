@@ -1,3 +1,6 @@
+import subprocess
+subprocess.run(["pip", "install", "beautifulsoup4"])
+
 import os
 import time
 import streamlit as st
