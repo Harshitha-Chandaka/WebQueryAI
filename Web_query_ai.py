@@ -1,5 +1,5 @@
-import subprocess
-subprocess.run(["pip", "install", "beautifulsoup4==4.12.2"])
+# import subprocess
+# subprocess.run(["pip", "install", "beautifulsoup4==4.12.2"])
 
 import os
 import time
